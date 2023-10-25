@@ -1,0 +1,98 @@
+[
+	{
+		"id": "cf7289d4-bf97-4a48-b37a-1f7920fc51ba",
+		"description": "ropero de madera",
+		"code": "50",
+		"price": 2500,
+		"status": true,
+		"stock": 6,
+		"category": "mueble",
+		"thumbnail": "img1"
+	},
+	{
+		"id": "50cb2b90-6130-4043-9dad-7bb7387af6a7",
+		"description": "ropero de caño ",
+		"code": "50",
+		"price": 2500,
+		"status": true,
+		"stock": 6,
+		"category": "mueble",
+		"thumbnail": "img1"
+	},
+	{
+		"id": "ab2af051-6260-4f38-9fde-4a79d8208f93",
+		"description": "silla gamer regulable en 3 angulos de cuero ",
+		"code": "50",
+		"price": 2500,
+		"status": true,
+		"stock": 6,
+		"category": "mueble",
+		"thumbnail": "img1"
+	},
+	{
+		"id": "e9538e7d-0ad9-4ca4-8788-043e069b916b",
+		"title": "soporte monitor",
+		"description": "soporte para monitor regulable en altura, angulo 'x' e 'y'",
+		"code": "50",
+		"price": 19000,
+		"status": true,
+		"stock": 4,
+		"category": "accesorio",
+		"thumbnail": "img1"
+	},
+	{
+		"id": "d3667d18-77a7-4a37-b64b-1698d9dbcd22",
+		"title": "teclado mecánico",
+		"description": "teclado mecánico para juegos con retroiluminación RGB",
+		"code": "51",
+		"price": 8500,
+		"status": true,
+		"stock": 10,
+		"category": "periférico",
+		"thumbnail": "img2"
+	},
+	{
+		"id": "1b7fb0aa-af31-4356-a85f-286a008bf60b",
+		"title": "auriculares inalámbricos",
+		"description": "auriculares inalámbricos con cancelación de ruido",
+		"code": "52",
+		"price": 12000,
+		"status": true,
+		"stock": 7,
+		"category": "audio",
+		"thumbnail": "img3"
+	},
+	{
+		"id": "6650b425-8584-4493-944f-2573b9bb7577",
+		"title": "auriculares inalámbricos",
+		"description": "auriculares inalámbricos con cancelación de ruido",
+		"code": "52",
+		"price": 12000,
+		"status": true,
+		"stock": 7,
+		"category": "audio",
+		"thumbnail": "img3"
+	},
+	{
+		"id": "89d3ee9a-49e1-4eee-aa9f-1959fca4e237",
+		"title": "monitor 4k",
+		"description": "monitor 4k de 27 pulgadas con tecnología IPS",
+		"code": "54",
+		"price": 35000,
+		"status": true,
+		"stock": 5,
+		"category": "monitor",
+		"thumbnail": "img5"
+	},
+	{
+		"id": "dbe3a49e-e3fe-4cad-9802-ae0d15f53d34",
+		"title": "memoria RAM DDR4",
+		"description": "memoria RAM DDR4 de 16GB para mejorar el rendimiento",
+		"code": "55",
+		"price": 4000,
+		"status": true,
+		"stock": 12,
+		"category": "componente",
+		"thumbnail": "img6"
+	}
+]
